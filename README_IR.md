@@ -7,6 +7,11 @@ https://github.com/Xiao0728/DenseExternalExpansion_VirtualAppendix
 # Clone the git repository of our code using.
 using the command `git clone https://github.com/ramprasad555/IR_external_expansion.git`
 
+# the project code with all the indexes and saved results can be accessed at 
+``` https://drive.google.com/drive/folders/12BYdlaAwdSPSZSgittOsKM6caBYRDoTR?usp=drive_link ```
+
+
+
 # Install the dependencies
 - pyterrier
 - faiss
@@ -56,3 +61,4 @@ Run the following command for Expansion, Inference and Evaluation
 The evaluation results from the above run are stored in ``` output.txt ```
 
 --- we have uploaded few results from our previous runs.
+
